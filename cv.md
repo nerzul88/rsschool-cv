@@ -31,4 +31,4 @@ I have no real application development experience. There are only tutorial proje
 - ITMO University, Megafaculty of Low-temperature Lystems, PHD
 - ITMO University, Additional Education Center, Developer of professionally oriented computer systems
 ### 8. English
-I rate my level of English as an intermediate. In 2015 I took a spoken English course at the "Don't Speak" school.
+I rate my level of English as an intermediate. In 2015 I took English course at the "Don't Speak" school.
