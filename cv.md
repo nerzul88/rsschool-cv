@@ -4,7 +4,8 @@
 e-mail: kas.43@mail.ru
 GitHub: https://github.com/nerzul88
 ### 3. Summary
-At the beginning of this year, I completed professional retraining courses at ITMO University with a degree in “Developer of professionally oriented computer systems”. The courses were conducted with an emphasis on .NET, however, in the process of studying I bought a MacBook and realized that I wanted to do iOS development. My goal is to become an iOS developer and I will try to put my best effort into it.
+At the beginning of this year, I completed professional retraining courses at ITMO University with a degree in “Developer of professionally oriented computer systems”. The courses were conducted with an emphasis on .NET, however, in the process of studying I bought a MacBook and realized that I wanted to do iOS development. 
+My goal is to become an iOS developer and I will try to put my best effort into it.
 ### 4. Skills
 - .NET
   - C#
